@@ -1,5 +1,4 @@
-DEBUG = not fengari;
-package.path = "scripts/?.lua";
+DEBUG = false;
 
 local line_number;
 local compile_file;
